@@ -1,5 +1,5 @@
 # handy tutor client  
-# 안드로이드 기반으로 변경 아래를 참고
+# 안드로이드 기반으로 변경 아래 레포지토리를 참고
 https://github.com/HandyTutor/handy_tutor_android_client
 ## API KEY 발급
 http://www.makewith.co/page/project/1088/story/2749/
